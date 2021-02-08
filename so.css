@@ -1,0 +1,40 @@
+body{
+    background-color:turquoise;
+    color:grey;
+    text-align: center;
+    font-family: cursive;
+  }
+  h1{
+    font-weight: bold ;
+  
+  }
+  h3{
+    padding-top: 10%;
+  }
+  h2{
+    padding-top: -30%
+  }
+  ul{
+    list-style-type: disc;
+  }
+  li
+  {
+    font-size: large;
+    font-style: italic;
+  }
+  #me{
+    height:25%;
+    width:20%;
+    float: left;
+    margin-left: 15%;
+    display: inline-block;
+  
+  }
+#secret
+{
+display: block;
+margin-left: 40%;
+}
+.OPEN{
+visibility: hidden;
+}
